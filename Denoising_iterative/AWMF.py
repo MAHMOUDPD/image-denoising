@@ -1,3 +1,8 @@
+'''
+Written by: Mahmoud M. Yahaya
+Contact address: mahmoudpd@gmail.com
+Date of last update: 19/08/2024
+'''
 
 import numpy as np
 from scipy.ndimage import median_filter
