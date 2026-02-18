@@ -20,5 +20,5 @@ Examples:
 *denoising_awmf_iterative.ipynb* — Jupyter notebook demonstrating a sample workflow using the AWMF implementation.
 
 If you find the above code useful in your work, please consider citing:
-DOI: 10.1109/ACCESS.2026.3661859
+[DOI:]https://(10.1109/ACCESS.2026.3661859)
 
