@@ -19,6 +19,9 @@ Examples:
 
 *denoising_awmf_iterative.ipynb* — Jupyter notebook demonstrating a sample workflow using the AWMF implementation.
 
-If you find the above code useful in your work, please consider citing:
-[DOI:]https://(10.1109/ACCESS.2026.3661859)
+If you find this repository useful, please cite:
+
+Author(s), "Paper Title," *Denoising colour images corrupted by salt-and-pepper noise: weighted mean filter with iterative approach and deep learning modelling*, 2026.  
+DOI: [10.1109/ACCESS.2026.3661859](https://doi.org/10.1109/ACCESS.2026.3661859)
+
 
