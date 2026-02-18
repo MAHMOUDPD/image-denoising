@@ -21,7 +21,7 @@ Examples:
 
 If you find this repository useful, please cite:
 
-Author(s), "Paper Title," *Denoising colour images corrupted by salt-and-pepper noise: weighted mean filter with iterative approach and deep learning modelling*, 2026.  
+Mahmoud et al., Paper Title: "*Denoising colour images corrupted by salt-and-pepper noise: weighted mean filter with iterative approach and deep learning modelling*", 2026.  
 DOI: [10.1109/ACCESS.2026.3661859](https://doi.org/10.1109/ACCESS.2026.3661859)
 
 
