@@ -21,7 +21,15 @@ Examples:
 
 If you find this repository useful, please cite:
 
-Mahmoud et al., Paper Title: "*Denoising colour images corrupted by salt-and-pepper noise: weighted mean filter with iterative approach and deep learning modelling*", 2026.  
+```
+@article{yahaya2026denoising,
+  title={Denoising coloured images corrupted with salt-and-pepper noise: weighted mean filter with iterative approach and deep learning modelling},
+  author={Yahaya, Mahmoud M and Kumam, Poom and Sitthithakerngkiet, Kanokwan},
+  journal={IEEE Access},
+  year={2026},
+  publisher={IEEE}
+}
+```  
 DOI: [10.1109/ACCESS.2026.3661859](https://doi.org/10.1109/ACCESS.2026.3661859)
 
 
